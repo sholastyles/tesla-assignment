@@ -1,0 +1,21 @@
+/*  small screen sizes */
+@media (max-width:400px) {
+    .box{
+        width: 155%;
+    }
+    ul{
+        display: none;
+    }
+    div a img{
+        display: none;
+    }
+    .button{
+        display: none;
+        
+    }
+    nav img{
+        width: 200px;
+        margin-top: 20px;   
+    }
+    }
+
